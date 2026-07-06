@@ -17,10 +17,9 @@
 
 📈 **Some milestones I'm proud of:**
 
-- 🚀 Published **Quicklyzer** on npm.
-- 🎓 Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
-- 🤖 Built **Social-AI** and submitted it to **Y Combinator**, where it became a defining learning experience in building ambitious products.
-- 🌱 I enjoy building products that solve real-world problems and continuously improving my engineering skills.
+- Published **Quicklyzer** on npm.
+- Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
+- Built **Social-AI** and submitted it to **Y Combinator**, where it became a defining learning experience in building ambitious products.
 
 📫 **Wanna connect or build something together?**
 
