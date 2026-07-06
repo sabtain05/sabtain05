@@ -6,7 +6,7 @@
 
 - **[Quicklyzer](https://github.com/sabtain05/quicklyzer)** — An open-source TypeScript CLI that understands and analyzes software projects in seconds.
 - **[Social-AI](https://github.com/yourusername/Social-Ai)** — An AI-powered social media platform originally built as a startup and submitted to Y Combinator.
-- **IIUI Journal** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
+- **[IIUI Journal](https://github.com/yourusername/iiui_journal)** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
 
 
 🛠**I've also built open-source project:**
