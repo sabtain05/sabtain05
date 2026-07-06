@@ -2,21 +2,18 @@
 
  **I'm a Software Engineer, Open Source Developer & Maintainer**
 
-🚀 **Some of my recent projects:**
+🎥**Some of my recent projects:**
 
 - **Quicklyzer** — An open-source TypeScript CLI that understands and analyzes software projects in seconds.
 - **Social-AI** — An AI-powered social media platform originally built as a startup and submitted to Y Combinator.
 - **IIUI Journal** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
-- **Invoice Flow Pro** — A production-ready full-stack invoice management SaaS application.
-- **Face Match** — A modern recreation of the classic Facemash experience featuring an Elo-based ranking system.
-- **Universal Calculator Pro** — A collection of 20+ calculators in one responsive web application.
 
-📦 **I've also built open-source projects like:**
+
+🛠**I've also built open-source project:**
 
 - Quicklyzer
-- Universal Calculator Pro
-- Face Match
-- Invoice Flow Pro
+
+
 
 📈 **Some milestones I'm proud of:**
 
