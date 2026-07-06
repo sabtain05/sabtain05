@@ -19,6 +19,6 @@
 
 - Published **Quicklyzer** on npm.
 - Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
-- Built **Social-AI** and submitted it to **Y Combinator**, where it became a defining learning experience in building ambitious products.
+- Built **Social-AI** and applied to **Y Combinator**, where it became a defining learning experience in building ambitious products.
 
 📫**Wanna connect? Have cool ideas? Write to me at sabtainalipk144@gmail.com or [@justchill1345](https://x.com/justchill1345) on X.**
