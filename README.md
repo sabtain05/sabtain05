@@ -11,7 +11,7 @@
 
 🛠**I've also built open-source project:**
 
-- Quicklyzer
+- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**
 
 
 
