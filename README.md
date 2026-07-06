@@ -14,7 +14,6 @@
 - **[Quicklyzer](https://github.com/sabtain05/quicklyzer)** — Open-source CLI for understanding any codebase in under 30 seconds.
 
   ![npm version](https://img.shields.io/npm/v/quicklyzer)
-  ![npm downloads](https://img.shields.io/npm/dm/quicklyzer)
 
 
 📈 **Some milestones I'm proud of:**
