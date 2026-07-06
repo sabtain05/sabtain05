@@ -9,10 +9,12 @@
 - **[IIUI Journal](https://github.com/sabtain05/iiui_journal)** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
 
 
-🛠**I've also built open-source project:**
+🛠 **I've also built open-source projects like:**
 
-- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**
+- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)** — Open-source CLI for understanding any codebase in under 30 seconds.
 
+  ![npm version](https://img.shields.io/npm/v/quicklyzer)
+  ![npm downloads](https://img.shields.io/npm/dm/quicklyzer)
 
 
 📈 **Some milestones I'm proud of:**
