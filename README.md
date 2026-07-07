@@ -12,6 +12,7 @@
 🛠 **I've also built open-source projects like:**
 
 - **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**
+
 ![npm version](https://img.shields.io/npm/v/quicklyzer)
 
 
