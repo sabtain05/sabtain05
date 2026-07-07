@@ -11,8 +11,7 @@
 
 🛠 **I've also built open-source projects like:**
 
-- <b><a href="https://github.com/sabtain05/quicklyzer">Quicklyzer</a></b><p>(Version 0.0.3)</p>
-
+- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**  (Version 0.0.3)
 
 📈 **Some milestones I'm proud of:**
 
