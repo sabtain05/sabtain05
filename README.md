@@ -11,7 +11,7 @@
 
 🛠 **I've also built open-source projects like:**
 
-- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**   ![npm version](https://img.shields.io/npm/v/quicklyzer)
+- <b><a href="https://github.com/sabtain05/quicklyzer">Quicklyzer</a></b>&emsp;<img src="https://img.shields.io/npm/v/quicklyzer" />
 
 
 📈 **Some milestones I'm proud of:**
