@@ -4,7 +4,7 @@
 
 🎥**Some of my recent projects:**
 
-- **[Face Match](https://github.com/sabtain05/)** — A Facemash-inspired web application where users compare faces and vote, powered by an Elo ranking system.
+- **[Face Match](https://github.com/sabtain05/Face-Match)** — A Facemash-inspired web application where users compare faces and vote, powered by an ELO ranking system.
 - **[Social-AI](https://github.com/sabtain05/Social-Ai)** — An AI-powered social media platform originally built as a startup and later applied to Y Combinator.
 - **[IIUI Journal](https://github.com/sabtain05/iiui_journal)** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
 
