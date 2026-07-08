@@ -9,7 +9,7 @@
 - **[IIUI Journal](https://github.com/sabtain05/iiui_journal)** — A student community platform that reached **1,500+ signups** and **1,300+ active users** within just 48 hours of launch.
 
 
-🛠 **I'm the creator of the most loved npm package like:**
+🛠 **I'm the creator of the most loved npm package:**
 
 - **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**  (Version 0.0.4)
 
