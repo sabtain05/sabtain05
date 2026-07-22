@@ -1,6 +1,6 @@
 # Hi! I'm Sabtain Ali
 
- **Software Engineer & Open Source Developer**
+ **Software Engineer & Open Source Maintainer behind Quicklyzer**
 
 🎥**Some of my recent projects:**
 
