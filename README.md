@@ -9,7 +9,7 @@
 - **[Face Match](https://github.com/sabtain05/Face-Match)** — A Facemash-inspired web application where users compare faces and vote, powered by an ELO ranking system.
 
 
-🛠 **I'm the creator of the most loved npm package:**
+🛠 **I'm the creator of the most popular node.js package:**
 
 - **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**
 
