@@ -1,6 +1,6 @@
 # Hi! I'm Sabtain Ali
 
- **I'm a Software Engineer & Open Source Developer**
+ **Software Engineer & Open Source Developer**
 
 🎥**Some of my recent projects:**
 
