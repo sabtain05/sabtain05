@@ -11,7 +11,7 @@
 
 🛠 **I'm the creator of the most loved npm package:**
 
-- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)**/ [quicklyzer.com](https://quicklyzer.vercel.app/)
+- **[Quicklyzer](https://github.com/sabtain05/quicklyzer)** / [quicklyzer.com](https://quicklyzer.vercel.app/)
 
 
 📈 **Some milestones I'm proud of:**
