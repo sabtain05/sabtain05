@@ -20,4 +20,4 @@
 - Built **Social-AI** and applied to **Y Combinator**, where it became a defining learning experience in building ambitious products.
 
 
-📫Wanna connect? Have cool ideas? Write to me at sabtainalipk144@gmail.com or [@justchill1345](https://x.com/justchill1345) on X.
+📫Wanna connect? Have cool ideas? Write to me at sabtainalipk144@gmail.com or [@](https://x.com/sabtain05) on X.
