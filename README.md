@@ -13,6 +13,9 @@
 
 - **[Quicklyzer](https://www.npmjs.com/package/quicklyzer)** / [quicklyzer.com](https://quicklyzer.vercel.app/)
 
+📦 I've also crafted popular node.js libraries:
+
+- **[safe-await-tuple](https://www.npmjs.com/package/safe-await-tuple)** / [safe-await-tuple.com](https://safe-await-tuple.vercel.app/)
 
 📈 **Some milestones I'm proud of:**
 
