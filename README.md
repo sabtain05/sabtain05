@@ -16,6 +16,7 @@
 📦 I've also crafted popular node.js libraries:
 
 - **[safe-await-tuple](https://www.npmjs.com/package/safe-await-tuple)** / [safe-await-tuple.com](https://safe-await-tuple.vercel.app/)
+- **[sanicast](https://www.npmjs.com/package/sanicast)** / [sanicast.com](https://sanicast-js.vercel.app/)
 
 📈 **Some milestones I'm proud of:**
 
