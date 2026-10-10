@@ -23,7 +23,6 @@
 
 - My packages received over **4000** downloads on **NPM**.
 - Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
-- Built **Social-AI** and applied to **Y Combinator**, where it became a defining learning experience in building ambitious products.
 
 
 📫Wanna connect? Have cool ideas? Write to me at sabtainalipk144@gmail.com or [@sabtain05](https://x.com/sabtain05) on X or [@sabtainali153](https://www.linkedin.com/in/sabtainali153) on LinkedIn.
