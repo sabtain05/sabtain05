@@ -19,7 +19,7 @@
 - **[sanicast](https://www.npmjs.com/package/sanicast)** / [sanicast.com](https://sanicast-js.vercel.app/)
 - **[scaffzap](https://www.npmjs.com/package/scaffzap)**
 
-📈 **Some milestones I'm proud of:
+📈 **Some milestones I'm proud of:**
 
 - My packages received over **4000 downloads** on NPM.
 - Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
