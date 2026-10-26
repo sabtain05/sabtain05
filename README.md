@@ -12,10 +12,6 @@
 🛠 **I'm the creator of the most loved npm package:**
 
 - **[Quicklyzer](https://www.npmjs.com/package/quicklyzer)** / [quicklyzer.com](https://quicklyzer.vercel.app/)
-- **[safe-await-tuple](https://www.npmjs.com/package/safe-await-tuple)** / [safe-await-tuple.com](https://safe-await-tuple.vercel.app/)
-- **[sanicast](https://www.npmjs.com/package/sanicast)** / [sanicast.com](https://sanicast-js.vercel.app/)
-- **[scaffzap](https://www.npmjs.com/package/scaffzap)**
-- **[cache-nomad](https://www.npmjs.com/package/cache-nomad)**
 
 📈 **Some milestones I'm proud of:**
 
