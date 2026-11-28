@@ -15,7 +15,7 @@
 
 📈 **Some milestones I'm proud of:**
 
-- My packages received **<!-- npm-dl:start -->10,939<!-- npm-dl:end --> downloads** on **NPM**!.
+- My packages received **<!-- npm-dl:start -->11,008<!-- npm-dl:end --> downloads** on **NPM**!.
 - Built **IIUI Journal**, which attracted **1,500+ registrations** and **1,300+ active users** in just two days.
 
 
